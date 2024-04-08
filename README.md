@@ -1,6 +1,6 @@
 # CPUgraph
 
-This was a side object by me (Rickard Wahlander) during my education to become an IT security developer.
+This was a side object by me (Rickard Wahlander) during my education to become an IT security developer at EC Utbildning.
 
 ## Description
 
